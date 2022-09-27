@@ -94,7 +94,7 @@ syntax match justOperator "\v%(\=\=|!\=|\+)"
 highlight default link justAlias                 Keyword
 highlight default link justAssignmentOperator    Operator
 highlight default link justBacktick              String
-highlight default link justBodyText              Constant
+highlight default link justBodyText              Delimiter
 highlight default link justBoolean               Boolean
 highlight default link justBuiltInFunctions      Function
 highlight default link justBuiltInFunctionsError Error
